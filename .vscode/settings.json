@@ -1,0 +1,4 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActionWidget.includeNearbyQuickFixes": false
+}
