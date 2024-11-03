@@ -58,7 +58,7 @@ void main() {
               ),
             ),
       ),
-      // themeMode: ThemeMode.system, // default
+     // themeMode: ThemeMode.system, // default
       home: const Expenses(),
     ),
   );
